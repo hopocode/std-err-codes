@@ -5,5 +5,9 @@
         "13103__error__authentication__invalid_credentials": {},
         "13104__error__authentication__username_not_registered": {},
         "13105__error__authentication__invalid_password": {},
+        "13106__error__authentication__not_found": {},
+        "13107__error__not_implemented": {},
+        "13108__error__not_implemented__app": {},
+        "13109__error__not_implemented__lib": {}
     }
 }
