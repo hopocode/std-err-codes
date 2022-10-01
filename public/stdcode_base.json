@@ -1,12 +1,9 @@
 {
-    "errors": {
-        "list": [
-          {
-            "id_int": "13001",
-            "id_string": "str_error",
-            "str_message": "Error occurred"
-            "description": "Error occurred"
-          }
-        ]
+    "codes": {
+        "13101__error__error_base": {},
+        "13102__error__authentication": {},
+        "13103__error__authentication__invalid_credentials": {},
+        "13104__error__authentication__username_not_registered": {},
+        "13105__error__authentication__invalid_password": {},
     }
 }
