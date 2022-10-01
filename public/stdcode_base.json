@@ -1,0 +1,12 @@
+{
+    "errors": {
+        "list": [
+          {
+            "id_int": "13001",
+            "id_string": "str_error",
+            "str_message": "Error occurred"
+            "description": "Error occurred"
+          }
+        ]
+    }
+}
